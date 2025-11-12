@@ -95,7 +95,7 @@ const LoginForm = ({ onSwitch, onForgot }) => {
                 <Field
                   type="email"
                   name="email"
-                  placeholder="Enter your email"
+                  placeholder="Enter your registered email"
                   className="w-full p-3 pl-10 border border-teal-600 rounded-lg focus:outline-none focus:border-teal-600 focus:ring-2 focus:ring-teal-400"
                 />
               </div>
